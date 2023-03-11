@@ -1,0 +1,15 @@
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\bin\Debug\net6.0\task on c#.exe
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\bin\Debug\net6.0\task on c#.deps.json
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\bin\Debug\net6.0\task on c#.runtimeconfig.json
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\bin\Debug\net6.0\task on c#.dll
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\bin\Debug\net6.0\task on c#.pdb
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\obj\Debug\net6.0\task on c#.csproj.AssemblyReference.cache
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\obj\Debug\net6.0\task on c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\obj\Debug\net6.0\task on c#.AssemblyInfoInputs.cache
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\obj\Debug\net6.0\task on c#.AssemblyInfo.cs
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\obj\Debug\net6.0\task on c#.csproj.CoreCompileInputs.cache
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\obj\Debug\net6.0\task on c#.dll
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\obj\Debug\net6.0\refint\task on c#.dll
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\obj\Debug\net6.0\task on c#.pdb
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\obj\Debug\net6.0\task on c#.genruntimeconfig.cache
+C:\Users\NigaNee\MyProject\Итоговая работа по 1 семетру\task on c#\obj\Debug\net6.0\ref\task on c#.dll
