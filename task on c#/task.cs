@@ -1,8 +1,13 @@
-﻿System.Console.WriteLine("Введите колличество элементов");
-int arrLength = int.Parse(Console.ReadLine());
-string[] array = new string[arrLength];
-string[] arr = getArray(arrLength);
+﻿int length = size();
+string[] array = new string[length];
+string[] arr = getArray(length);
 PrintResult(filterArray(arr));
+
+int size() {
+    System.Console.WriteLine("Введите колличество элементов");
+    int arrLength = int.Parse(Console.ReadLine());
+    return arrLength;
+}
 
 string[] getArray(int length)
 {
@@ -16,8 +21,7 @@ string[] getArray(int length)
     return array;
 }
 
-// string[] arr = getArray(arrLength);
-
+// Метод поиска элементов массива которые <= limit(3) увеличиваем sum при поиске 
 string[] filterArray(string[] array)
 {
     int limit = 3;
